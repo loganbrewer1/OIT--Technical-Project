@@ -1,0 +1,14 @@
+{
+  "name": "Brewer-Technical-Challenge",
+  "dependencies": {
+    "aws-sdk": "^2.1134.0",
+    "axios": "^0.27.2",
+    "console-read-write": "^0.1.1",
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
+    "open": "^8.4.0",
+    "oracledb": "^5.3.0",
+    "progress": "^2.0.3",
+    "uuid": "^8.3.2"
+  }
+}
